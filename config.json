@@ -1,0 +1,7 @@
+{"batchsize":64,
+ "dropout":0.00,
+ "headsize":64,
+ "char_embed_size":256,
+ "train_char_embeds":true,
+ "seqlen":64
+}
